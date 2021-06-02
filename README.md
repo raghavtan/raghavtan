@@ -1,0 +1,29 @@
+# Raghavendra Tandon
+
+> Platform and Backend. Tech-o-holic.
+
+## Overview
+
+[![linkedin](https://img.shields.io/badge/-linkedin-171717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guicheffer/)](https://www.linkedin.com/in/raghavendratandon/)
+[![GitHub followers](https://img.shields.io/github/followers/raghavtan.svg?style=social&label=follow&maxAge=2592000)](https://github.com/raghavtan?tab=followers)
+
+| **I ~sort of~ am** 	| Stats 	|
+|-	|-	|
+| - A Senior Platform Engineer;<br>- 9+ years of experience;<br>- Python Enthusiast;<br>- Lazy enough to not insert more bullet points here 🤭| ![guicheffer github stats](https://github-readme-stats.vercel.app/api?username=guicheffer&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=issues,contribs,rank&hide_border=true) 	|
+
+## Important Links
+
+A bit of my career, frontend content and so on.
+
+### [LinkedIn](https://www.linkedin.com/in/raghavendratandon/)
+
+My LinkedIn profile.
+
+### [Twitter](https://twitter.com/_raghav___)
+
+My Twitter profile.
+
+### [Contact Info](mailto:raghavtan@gmail.com)
+
+- Above, my email contact is linked;
+- <small>[+49 A57 ABCD XYZ](tel:+49AA77BBB7XXX) (_please message me on LinkedIn if you want the rest_)</small>
