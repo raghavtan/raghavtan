@@ -9,7 +9,7 @@
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - A Senior Platform Engineer;<br>- 9+ years of experience;<br>- Python Enthusiast;<br>- Lazy enough to not insert more bullet points here 🤭| ![Raghavtan github stats](https://github-readme-stats.vercel.app/api?username=raghavtan) 	|
+| - A Senior Platform Engineer;<br>- 9+ years of experience;<br>- Python Enthusiast;<br>- Lazy enough to not insert more bullet points here 🤭| ![Raghavtan github stats](https://github-readme-stats.vercel.app/api?username=raghavtan&show_icons=true&count_private=true) 	|
 
 ## Important Links
 
