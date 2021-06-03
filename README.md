@@ -13,7 +13,7 @@
 
 ## Important Links
 
-A bit of my career, frontend content and so on.
+A bit of my career, platform services and so on.
 
 ### [LinkedIn](https://www.linkedin.com/in/raghavendratandon/)
 
