@@ -11,6 +11,10 @@
 |-	|-	|
 | - A Senior Platform Engineer;<br>- 9+ years of experience;<br>- Python Enthusiast;<br>- Lazy enough to not insert more bullet points here 🤭| ![Raghavtan github stats](https://github-readme-stats.vercel.app/api?username=raghavtan&show_icons=true&count_private=true) 	|
 
+## GPG keys
+[Work](https://keys.openpgp.org/search?q=rtan%40hellofresh.com)
+[Personal](https://keys.openpgp.org/search?q=raghavtan%40gmail.com)
+
 ## Important Links
 
 A bit of my career, platform services and so on.
