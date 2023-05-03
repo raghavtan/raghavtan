@@ -13,7 +13,7 @@
 
 ## GPG keys
 
-[Work](https://keys.openpgp.org/search?q=rtan%40hellofresh.com)
+[Work](https://keys.openpgp.org/search?q=raghavendra.tandon%40onefootball.com)
 
 [Personal](https://keys.openpgp.org/search?q=raghavtan%40gmail.com)
 
